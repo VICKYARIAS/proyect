@@ -1,0 +1,12 @@
+README
+Ya se han agregado las clases de menú con las
+cuales se puden utilizar los métodos de las clases
+realizadas anteriormente, que son las de cuenta de crédito
+y ahorro y banco para que así el usuario pueda
+ingresar los datos directamente sin necesidad de estar
+creando objetos y utliando los métodos para cada clase
+
+Errores para poder agregar clientes y cuentas 
+aunque los métodos sí sirven en sus respectivas clases
+pero en el menú no lo permitió utilizar por lo que
+no se pudieron utlizar los meptodos de depositar y retirar
